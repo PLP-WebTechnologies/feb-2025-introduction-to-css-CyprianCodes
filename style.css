@@ -1,0 +1,36 @@
+
+body{
+    background-color:pink;
+    font-family:Aria, Calibri, Sans-serif;
+    font-size:20px;
+    font-weight:normal;
+
+    line-height:1.6em;
+    margin:0;
+}
+
+.container{
+    width:80%;
+    margin:auto;
+}
+
+.box-1{
+    background-color:black;
+    color:pink;
+    border-right:50px white solid;
+    border-left:5px white solid;
+    border-top: 10px white solid;
+    border-bottom:10px white solid;
+
+    padding:20px;     
+    margin:20px 0;  
+    
+
+}
+
+.box-1 h1{
+    text-decoration:underline;
+    text-transform:uppercase;
+    font-weight:2000px;
+    color:pink;
+}
