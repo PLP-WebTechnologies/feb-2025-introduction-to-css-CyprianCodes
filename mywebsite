@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> CSS CHEAT SHEET</title>
+        <link rel="stylesheet" type="text/css" href="CSS/style.css"
+    </head>
+    <body> 
+        <div class="container">
+        <div class="box-1">
+        <h1>Hello Cherotorongei</h1>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.<br>
+         Pariatur enim nisi quisquam quia tenetur fugit facere ad eos,<br>
+         magnam, exercitationem, blanditiis dolorem in porro similique vitae<br>
+        laudantium quidem assumenda molestias?</p>
+    </div>
+    </div>
+    </body>
+    </html>
